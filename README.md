@@ -64,8 +64,8 @@ Follow these step-by-step instructions to set up the project locally:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd ecom_api
+git clone https://github.com/jbhasan/order-management-api.git
+cd order-management-api
 ```
 
 ### Step 2: Install Dependencies
